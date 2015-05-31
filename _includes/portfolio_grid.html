@@ -10,11 +10,12 @@
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
+                    <div class="col-sm-4 portfolio-item portfolio-post-radial-out" >
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
+                                <div class="caption-content" >
+                                    <h3 style="color:#fff; z-index:999">{{ post.project-date }}</h3>
+                                    <!-- <i class="fa fa-search-plus fa-2x"></i> -->
                                 </div>
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
