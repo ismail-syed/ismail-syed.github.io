@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2015-05-24
 img: ieee-os.png
-myTitle: this is my title
+Title: IEEE Ottawa Section Post Validation
 alt: image-alt
 project-date: May 2015
 client: Start Bootstrap
