@@ -8,7 +8,7 @@ alt: image-alt
 project-date: March 2014
 client: Start Bootstrap
 category: Web Development
-link: http://www.gradster.ca
+link: http://gradster.herokuapp.com/
 source: https://github.com/isyed867/Gradster
 description:
 ---
