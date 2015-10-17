@@ -2,13 +2,13 @@
 layout: default
 modal-id: 4
 date: 2015-05-24
-img: ieee-os.png
-Title: IEEE Ottawa Section Post Validation
+img: coursepack-request-system.png
+Title: Coursepack Request System
 alt: image-alt
-project-date: May 2015
+project-date: September 2015
 client: Start Bootstrap
 category: Web Development
-link: http://isyed867.github.io/ieee-os-form/
-source: https://github.com/isyed867/ieee-os-form
+link: http://coursepacks.ieeecarleton.ca/
+source: https://github.com/isyed867/ieee-cu-coursepack
 description: 
 ---
