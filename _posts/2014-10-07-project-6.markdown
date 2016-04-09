@@ -8,7 +8,7 @@ alt: image-alt
 project-date: October 2014
 client: Start Bootstrap
 category: Web Development
-link: http://www.ieeespac.ca/
+link: http://ieee-carleton.github.io/spac-website/
 source: https://github.com/ieee-carleton/spac-website
 description: 
 ---

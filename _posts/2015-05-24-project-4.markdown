@@ -8,7 +8,7 @@ alt: image-alt
 project-date: September 2015
 client: Start Bootstrap
 category: Web Development
-link: http://coursepacks.ieeecarleton.ca/
+link: http://104.236.24.236/
 source: https://github.com/isyed867/ieee-cu-coursepack
 description: 
 ---

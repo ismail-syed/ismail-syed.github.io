@@ -8,6 +8,6 @@ alt: image-alt
 project-date: April 2015
 client: Start Bootstrap
 category: Web Development
-link: http://ieee.carleton.ca/
+link: http://ieeecarleton.ca/
 description:
 ---
